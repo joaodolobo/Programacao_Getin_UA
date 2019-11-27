@@ -1,0 +1,6 @@
+00_Migracoes_Fertilidade_Municipios/00_Base_de_Dados
+01_Analise_espacial_escolas/Escolas_Ourem/00_Base_de_dados
+01_Analise_espacial_escolas/School_closure_Muhammad/Calculo_taxas_desemprego/*.csv
+00_Migracoes_Fertilidade_Municipios/00_Base_de_Dados/Novos/*.csv
+.ipynb_checkpoints
+gitignore_regras.txt
